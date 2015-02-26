@@ -1,0 +1,9 @@
+[submodule "sites/all/modules/sublib/sites/all/modules/sublib/path_breadcrumbs"]
+	path = sites/all/modules/sublib/sites/all/modules/sublib/path_breadcrumbs
+	url = http://git.drupal.org/project/path_breadcrumbs.git
+[submodule "sites/all/modules/sublib/sites/all/modules/sublib/views_slideshow"]
+	path = sites/all/modules/sublib/sites/all/modules/sublib/views_slideshow
+	url = http://git.drupal.org/project/views_slideshow.git
+[submodule "sites/all/modules/sublib/sites/all/modules/sublib/colorbox"]
+	path = sites/all/modules/sublib/sites/all/modules/sublib/colorbox
+	url = http://git.drupal.org/project/colorbox.git
